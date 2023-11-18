@@ -1,4 +1,4 @@
 # DrawGraph
  Построение простого графа с заданной последовательностью степеней
  
-![PreviewKP](https://github.com/Locurus/DrawGraph/assets/131595480/4eddf4a2-a63a-447c-a147-fb94fd8d3b68)
+![PreviewKP](https://github.com/Locurus/DrawGraph/assets/131595480/2855dc05-11fa-4400-9eab-2162d5ba0894)
