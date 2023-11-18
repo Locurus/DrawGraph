@@ -1,0 +1,11 @@
+C:\Users\zaits\source\repos\КП\КП\bin\Debug\КП.exe.config
+C:\Users\zaits\source\repos\КП\КП\bin\Debug\КП.exe
+C:\Users\zaits\source\repos\КП\КП\bin\Debug\КП.pdb
+C:\Users\zaits\source\repos\КП\КП\obj\Debug\КП.csproj.AssemblyReference.cache
+C:\Users\zaits\source\repos\КП\КП\obj\Debug\КП.csproj.SuggestedBindingRedirects.cache
+C:\Users\zaits\source\repos\КП\КП\obj\Debug\КП.Main_Form.resources
+C:\Users\zaits\source\repos\КП\КП\obj\Debug\КП.Properties.Resources.resources
+C:\Users\zaits\source\repos\КП\КП\obj\Debug\КП.csproj.GenerateResource.cache
+C:\Users\zaits\source\repos\КП\КП\obj\Debug\КП.csproj.CoreCompileInputs.cache
+C:\Users\zaits\source\repos\КП\КП\obj\Debug\КП.exe
+C:\Users\zaits\source\repos\КП\КП\obj\Debug\КП.pdb
